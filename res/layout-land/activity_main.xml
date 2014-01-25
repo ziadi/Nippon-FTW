@@ -1,0 +1,150 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <FrameLayout
+        android:id="@+id/Frame1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#000000" >
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="4dp"
+            android:text="@string/for_english"
+            android:textColor="#FF0000"
+            android:textSize="12sp" />
+    </FrameLayout>
+    
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="top"
+        android:layout_above="@id/Frame1" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:orientation="vertical" >
+            
+        <RelativeLayout
+            android:layout_gravity="top"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp" >
+
+                    <ImageView
+                        android:id="@+id/bg"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:contentDescription="@string/title_japanese"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/osaka" />
+                    
+                                        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="8dp"
+            android:text="@string/title_japanese"
+            android:textColor="#FFFFFF"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+            
+        </RelativeLayout>
+
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_marginTop="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/title_japanese"
+            android:layout_gravity="center"
+            android:background="#000000"
+            android:padding="1dp"
+            android:src="@drawable/flag" />
+        
+        <TextView
+	        android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+        	android:padding="8dp"
+        	android:layout_gravity="center"
+	        android:textSize="18sp"
+    	    android:text="@string/japanese_text1" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true" 
+            android:contentDescription="@string/title_japanese"
+            android:layout_gravity="center"
+            android:src="@drawable/tokyo" />
+        
+        <TextView
+	        android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+        	android:padding="8dp"
+        	android:layout_gravity="center"
+	        android:textSize="18sp"
+    	    android:text="@string/japanese_text2" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true" 
+            android:contentDescription="@string/title_japanese"
+            android:layout_gravity="center"
+            android:src="@drawable/kinkaku" />
+                
+		<TextView
+	        android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+        	android:padding="8dp"
+        	android:layout_gravity="center"
+	        android:textSize="18sp"
+    	    android:text="@string/japanese_text3" />
+		
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true" 
+            android:contentDescription="@string/title_japanese"
+            android:layout_gravity="center"
+            android:src="@drawable/horyu" />
+		
+		<TextView
+	        android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+        	android:padding="8dp"
+        	android:layout_gravity="center"
+	        android:textSize="18sp"
+    	    android:text="@string/japanese_text4" />
+		
+		<TextView
+	        android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+        	android:padding="8dp"
+        	android:layout_gravity="center"
+	        android:textSize="14sp"
+	        android:textStyle="italic"
+    	    android:text="@string/copyright_japanese" />
+				
+		</LinearLayout>
+	</ScrollView>
+
+</RelativeLayout>

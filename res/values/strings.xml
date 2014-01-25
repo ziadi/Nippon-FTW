@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nippon FTW</string>
+    <string name="title_english">About Japan</string>
+    <string name="title_japanese">日本について</string>
+    <string name="for_english">For English, flip the phone to portrait mode.</string>
+    <string name="for_japanese">日本の場合は、ランドスケープモードに電話を反転。</string>
+    <string name="english_text1">
+        Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. The characters that make up Japan\&apos;s name mean \&quot;sun-origin\&quot;, which is why the country is sometimes referred to as the \&quot;Land of the Rising Sun\&quot;. Japan is an archipelago of 6,852 islands, the four largest being Honshu, Hokkaido, Kyushu and Shikoku. Together, these four islands hold about 97 percent of the country\&apos;s land area. Japan has the world\&apos;s tenth-largest population, with more than 126 million people. Honshu\&apos;s Greater Tokyo Area includes the de facto capital city of Tokyo and several surrounding prefectures. It is the largest metropolitan area in the world, with more than 30 million residents.
+    </string>
+    <string name="english_text2">
+        Archaeological research indicates that people lived in Japan as early as the Upper Paleolithic period. The first written mention of Japan is found in Chinese texts from the 1st century AD. Influence from other nations followed by long periods of isolation has characterized Japan\&apos;s history. Japan evolved into a cohesive society during the Heian period (8th-11th centuries AD). From the 12th century until 1868, Japan was ruled by successive feudal military dictatorships or shogunates in the name of the Emperor. In the early 17th century, Japan entered into a long period of isolation, which was only ended in 1853 when a United States fleet pressured Japan to open to the West. Nearly two decades of internal conflict and insurrection followed before the Meiji Emperor was restored as head of state in 1868 and the Empire of Japan was proclaimed, with the Emperor enshrined as a divine symbol of the nation.
+    </string>
+    <string name="english_text3">
+        Periodic insurrections and civil disturbances continued into the 1880s. A modern constitution was promulgated in 1889 and a Western-style parliament established. In the late 19th and early 20th centuries, victories in the First Sino-Japanese War, the Russo-Japanese War and World War I allowed Japan to expand its empire during a period of increasing militarism. From 1931, military expansion into China and Manchuria led to the Second Sino-Japanese War in 1937. Japan allied itself with the Axis powers in 1940, and the war in China became part of World War II in 1941. While Japan initially enjoyed a period of military dominance, successive military defeats and the atomic bombings of Hiroshima and Nagasaki led to the end of the war in 1945, Japan\&apos;s surrender and the loss of its empire. Under Allied military occupation lasting until 1952, Japan dissolved and restructured its military, adopted a revised constitution in 1947 and became a unitary constitutional monarchy with an emperor and a democratically elected legislature.
+    </string>
+    <string name="english_text4">
+        A major economic power, Japan has the world\&apos;s third-largest economy by nominal GDP and the world\&apos;s fourth-largest economy by purchasing power parity. It is also the world\&apos;s fourth-largest exporter and fourth-largest importer. Although Japan has officially renounced its right to declare war, it maintains a modern military with the fifth largest military budget, used for self-defense and peacekeeping roles. According to Japan\&apos;s health ministry, Japanese women have the second highest life expectancy of any country in the world. According to the United Nations, Japan also has the third lowest infant mortality rate.
+	</string>
+    <string name="japanese_text1">
+        日本は東アジアの島国である。太平洋に位置し、南は東シナ海、台湾に北のオホーツク海からストレッチ、日本、中国、北朝鮮、韓国、ロシアの海の東に位置しています。日本の名前を構成する文字は、国はしばしば「日出づる国」と呼ばれている理由である、「太陽の起源」を意味。日本は6852の島々からなる群島で、四大本州、北海道、九州、四国いる。一緒に、これらの4つの島々は、国の陸地面積の約97パーセントを保有。日本は以上1.26億人と、世界で第十位の人口を持っています。本州の首都圏、東京の事実上の首都といくつかの周辺の都道府県が含まれています。これは、3000万人以上の住民と世界最大の都市圏、です。
+    </string>
+    <string name="japanese_text2">
+        考古学の研究では、人々は早くもアッパー旧石器時代期間、日本に住んでいたことを示しています。日本の最初の書面による言及は紀元1世紀から中国のテキストに含まれています。隔離長期間続く他の国からの影響は、日本の歴史を特徴としている。日本は、平安時代（第8〜11世紀の広告）の間に粘着性の社会へと進化。12世紀から1868年まで、日本は天皇の名の下に連続した封建的軍事独裁や将軍によって支配された。 17世紀初頭では、日本は米国の艦隊が西に開くように、日本に圧力をかけた場合にのみ、1853年に終了したアイソレーション、長期間を締結した。明治天皇は1868年に国家元首として復元され、日本の帝国は国家の神の象徴として祀ら天皇と、宣言された前に、内部紛争や暴動のほぼ二十年は続く。
+    </string>
+    <string name="japanese_text3">
+        定期的な反乱や暴動は、 1880年代まで続いた。現代の憲法1889年に公布し、洋風の議会が設立されました。 19世紀後半から20世紀初頭では、まず日清戦争、日露戦争と第二次世界における勝利は、私は、日本が増加軍国主義の期間中に、その帝国を拡大することができました。 1931から、中国と満州への軍事拡大は、 1937年に第二に日中戦争につながった。日本は1940年に枢軸国で自身を同盟し、中国での戦争は、 1941年に第二次世界大戦の一部となった。日本は当初、軍事支配、相次ぐ軍事敗北と広島への原爆投下の時間を楽しんだと長崎は、 1945年に終戦まで日本の降伏とその帝国の損失を主導している間。 1952まで持続連合軍の軍事占領下では、日本が溶解し、軍事を再編、 1947年に改訂された憲法を採択し、天皇と民主的に選ばれた議会と一体立憲君主国となりました。
+    </string>
+    <string name="japanese_text4">
+        経済大国、日本は購買力平価による名目GDP、世界第4位の経済大国で世界第3位の経済を持っています。また、世界第4位の輸出国と第4位の輸入国である。日本が正式に宣戦布告する権利を放棄したが、自己防衛や平和維持の役割のために使用される第5位の軍事予算と近代的な軍事を維持します。日本の保健省によると、日本の女性は世界のどの国で2番目に高い平均寿命を持っている。国連によると、日本でも3番目に低い乳児死亡率を持っています。
+	</string>
+	<string name="copyright_japanese">出典：ウィキペディア</string>
+	<string name="copyright_english">Source: Wikipedia</string>
+</resources>
